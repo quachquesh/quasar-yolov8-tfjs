@@ -1,0 +1,12 @@
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\CSharpLibary\ClassLibrary1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\bin\Debug\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\bin\Debug\ClassLibrary1.pdb
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

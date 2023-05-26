@@ -1,0 +1,8 @@
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\dist_electron\win-unpacked\library\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\dist_electron\win-unpacked\library\ClassLibrary1.pdb
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Release\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Release\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Release\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\ClassLibrary1\obj\Release\ClassLibrary1.pdb
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\bin\Release\ClassLibrary1.dll
+C:\Users\mrhan\Desktop\test\Electronjs\vite-electron-vue\library\bin\Release\ClassLibrary1.pdb
