@@ -12,7 +12,7 @@ const streaming = ref<'image' | 'video' | null>(null);
 
 const { progress, modelName } = storeToRefs(useModelStore());
 const { setProgress } = useModelStore();
-const modelNameLoading = ref('license_plates');
+const modelNameLoading = ref('yolov8n');
 const model: IModel = {
   net: null,
   inputShape: [1, 0, 0, 3],
@@ -115,12 +115,12 @@ function onEndedVideo() {
       <ButtonGroup
         v-model:streaming="streaming"
         @change-image-src="
-          (value) => {
+          (value: string) => {
             if (imageRef) imageRef.src = value;
           }
         "
         @change-video-src="
-          (value) => {
+          (value: string) => {
             if (videoRef) videoRef.src = value;
           }
         "
